@@ -1,6 +1,6 @@
 # Landing Page - Data X POS
 
-![Data X POS Logo](assets/images/logo/logo4.svg)
+![Data X POS Logo](assets/images/logo/logo.svg)
 
 Landing page oficial de **Data X POS**, diseñada para presentar las funcionalidades y beneficios del sistema de punto de venta, así como facilitar el acceso a información, descarga de apps y contacto comercial.
 
